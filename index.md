@@ -144,17 +144,11 @@
               <div class="container">
                 <h3>Leadership</h3>
                 <ul class="alt">
-                  <li>
                     <h4 style="color: #3A4DAE">Vice President, SJTU Taiwanese Student Association(TSA)<span style="float:right; font-weight: 50; font-size: small;">Mar. 2017-Mar. 2018</span></h4>
-                    <p> Undertook large-scale affairs of EMBA Taiwan Alumni Association and HKMTO, including entrepreneur forums, and admission interviews with participants up to 100+ as well as offered legal enforcement consulting</p>
-					<p>Organized the 4th TSA Orientation with good utilization of resources from different agencies and departments</p>
-                  </li>
-                  <li>
-                    <h4 style="color: #3A4DAE">Vice Minister of SJTUSU Intercultural Communication Center<span style="float:right; font-weight: 50; font-size: small;">October 2015 & 2016 </span></h4>
-                  </li>
-                  <li>
-                    <h4 style="color: #3A4DAE"> Piano Accompanist of SJTU Chorus  <span style="float:right; font-weight: 50; font-size: small;">October 2016</span></h4>
-                  </li>
+                    <li> Undertook large-scale affairs of EMBA Taiwan Alumni Association and HKMTO, including entrepreneur forums, and admission interviews with participants up to 100+ as well as offered legal enforcement consulting</li>
+					<li>Organized the 4th TSA Orientation with good utilization of resources from different agencies and departments</li>
+                    <h4 style="color: #3A4DAE">Vice Minister of SJTUSU Intercultural Communication Center<span style="float:right; font-weight: 50; font-size: small;">Sep. 2017-Dec. 2017</span></h4>
+                    <h4 style="color: #3A4DAE"> Piano Accompanist of SJTU Chorus  <span style="float:right; font-weight: 50; font-size: small;">Oct. 2017-Oct. 2018</span></h4>
                 </ul>
               </div>
             </section>
