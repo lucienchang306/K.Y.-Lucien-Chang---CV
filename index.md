@@ -65,10 +65,10 @@
 								<div class="container">
 									<h3>Education</h3>
                   <h4 style="color: #3A4DAE">Shanghai Jiao Tong University <span style="float:right; font-weight: 50; font-size: small;">2015 - Expected Graduation Jun. 2019</span></h4>
-                  <p><b>School of Foreign Languages</b></p>
-                  <p><b>Bachelor of English (Finance and Business)</b></p>
-				  <p><b>Minor:</b>Accounting</p>
-                  <p><b>Major Courses:</b> International Trade, Internatioanl Finance, Financial Management, Accounting, Investment, English for Business Writing&Reading, Japanese Language, and more.</p>
+                  <p>School of Foreign Languages</p>
+                  <p>Bachelor of English (Finance and Business)</p>
+				  <p>Minor:Accounting</p>
+                  <p>Major Courses:International Trade, Internatioanl Finance, Financial Management, Accounting, Investment, English for Business Writing&Reading, Japanese Language, and more.</p>
 								</div>
 							</section>
 
