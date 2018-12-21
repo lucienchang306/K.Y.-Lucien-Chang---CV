@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Chang, Ko-Yuan - CV</title>
+		<title>Ko-Yuan, Chang - CV</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -12,7 +12,7 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
-					<h1 id="logo"><a href="https://lucienchang306.github.io/">Ko-Yuan Chang</a></h1>
+					<h1 id="logo"><a href="https://lucienchang306.github.io/">Ko-Yuan, Chang</a></h1>
 					<p>Undergraduate @ SJTU</p>
 				</header>
 				<nav id="nav">
