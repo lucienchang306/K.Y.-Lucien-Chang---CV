@@ -145,8 +145,7 @@
                 <h3>Leadership</h3>
                 <ul class="alt">
                   <li>
-                    <h4 style="color: #3A4DAE">Vice President<span style="float:right; font-weight: 50; font-size: small;">Mar. 2017 â€? Mar. 2018</span></h4>
-                    <h5>SJTU Taiwanese Student Association(TSA)</h5>
+                    <h4 style="color: #3A4DAE">Vice President, SJTU Taiwanese Student Association(TSA)<span style="float:right; font-weight: 50; font-size: small;">Mar. 2017-Mar. 2018</span></h4>
                     <p> Undertook large-scale affairs of EMBA Taiwan Alumni Association and HKMTO, including entrepreneur forums, and admission interviews with participants up to 100+ as well as offered legal enforcement consulting</p>
 					<p>Organized the 4th TSA Orientation with good utilization of resources from different agencies and departments</p>
                   </li>
@@ -165,89 +164,11 @@
               <div class="container">
                 <h3>Honors</h3>
                   <section>
-                      <h4 style="color: #3A4DAE">BoxBox: PC/Android Multi-player 3D game</h4>
-                    <h5>Course Project, Shanghai Jiaotong University</h5><h5>June 2016</h5>
-                      <ul>
-                        <li>
-                          Designed A 3D action game based on Unity, featured creative conception, multi-player LAN cooperation
-                          and single-player AI combat.
-                        </li>
-                        <li>
-                          Designed independently the whole set of 3D role models and UI icons of the theme.
-                        </li>
-                        <li>
-                          We released a final version of our App through QR code and represented it to our classmates, and got the first place in peer review.
-                        </li>
-                        <li>
-                          Watch a demo video <a href="videos/box-demo.mp4" target="_blank">here</a>.
-                        </li>
-                      </ul>
-                    <div class="box alt">
-                      <div class="row gtr-50 gtr-uniform">
-                        <div class="col-6"><span class="image fit"><img src="images/box2.png" alt="" /></span></div>
-                        <div class="col-6"><span class="image fit"><img src="images/box3.png" alt="" /></span></div>
-                        <div class="col-6"><span class="image fit"><img src="images/box4.png" alt="" /></span></div>
-                        <div class="col-6"><span class="image fit"><img src="images/box5.png" alt="" /></span></div>
-                      </div>
-                    </div>
-                    <hr />
+                  <li>2nd Place,  Hong Kong, Macao and Taiwanese Student Scholarship</li>
+				  <li>Selected, 18th GOOGLE Cup College Student Entrepreneur Business Planning Competition</li>
+				  <li>2nd Place, 3rd SJTU Faculty Chorus Competition </li>
+				  <li>2nd Place/Best Member, 2016 SJTU Social Practice Project Exhibition </li>
                   </section>
-
-									<section>
-										<h4 style="color: #3A4DAE">Five-Stage Pipelined CPU Design and Implementation</h4>
-										<h5>Course Project, Shanghai Jiaotong University</h5><h5>April 2016</h5>
-										<ul>
-											<li>
-                        Studied the coordination principle of the computer instruction pipeline,
-                        and grasped the design and implementation principle of the pipeline.
-                        Mastered the method of information interaction with external devices through I/O ports in the pipeline.
-                      </li>
-											<li>
-                        Implemented a basic 5-stage pipeline CPU design with 20 MIPS instructions in quartusII using Verilog.
-											</li>
-                      <li>
-                        Used Forwarding and bubbling to solve data hazards.
-                      </li>
-										</ul>
-										<hr />
-									</section>
-
-                  <section>
-                      <h4 style="color: #3A4DAE">AR System Based on FPGA</h4>
-											<h5>Digital Art Lab, Shanghai Jiaotong University</h5><h5>June 2017 - December 2017</h5>
-                      <u>Served as Group Leader of undergraduate students:</u>
-                      <ul>
-                        <li>
-                          Responsible for: communication between undergraduate students and the mentor, arrangement of assignments
-                          and organization of meetings, managing the progress of our project and adjust the research orientation,
-                          managing equipment and contacting the companies.
-                        </li>
-                        <li>
-                          We implemented an FPGA system on a board of Xilinx Artix-7 series which has a video camera input and a LVDS media output.
-                          The system can recognize some real-world objects and make corresponding responses on screen.
-                        </li>
-                        <li>
-                          Our undergraduate group students mainly involved in the FPGA programming and provided relevent hardware supports.
-                        </li>
-                      </ul>
-                    <hr />
-                  </section>
-
-                <section>
-                  <div>
-                    <h4 style="color: #3A4DAE">SJTUXX: Campus Leasing Web Platform</h4>
-                    <h5>Course Project, Shanghai Jiaotong University</h5><h5>July 2017</h5>
-                    <ul>
-                      <li>
-                        The current situation that there are many items on campus which are expensive but not frequently used
-                        made our idea work. Our team considered the advantage of convenience of trade on campus and constructed
-                        a web platform providing leasing service.
-                      </li>
-                      <li>
-                        Formulated regulations and wrote documents on the trading process.
-                      </li>
-                    </ul>
-                  </div>
                   <div class="box alt">
                     <div class="row gtr-50 gtr-uniform">
                       <div class="col-6"><span class="image fit"><img src="images/xx1.png" alt="" /></span></div>
