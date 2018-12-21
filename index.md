@@ -77,24 +77,24 @@
 								<div class="container">
 									<h3>Internship Experience</h3>
                   <h4 style="color: #3A4DAE;">Strategy Consulting Intern, EY Parthenon</h4>
-				  <h5><a href="https://www.parthenon.ey.com/po/en/home" target="_blank">https://www.parthenon.ey.com/po/en/home</a></h5>
-                  <p>Executed keyboard industry research, marketing analysis, sales channel analysis and competitive product analysis for German keyboard manufacturer CHERRY. Implemented users analysis in different regions as well as participated in the brand research to provide valuable optimization suggestions for project teams </p>
-				  <p>Completed interview outline designs, relevant industry reports and data collections</p>
+				  <h5><a href="https://www.parthenon.ey.com/" target="_blank">https://www.parthenon.ey.com/</a></h5>
+                  <li>Executed keyboard industry research, marketing analysis, sales channel analysis and competitive product analysis for German keyboard manufacturer CHERRY. Implemented users analysis in different regions as well as participated in the brand research to provide valuable optimization suggestions for project teams </li>
+				  <li>Completed interview outline designs, relevant industry reports and data collections</li>
                   <h4 style="color: #3A4DAE;">APEC Sales Intern, Leverate (Fintech) Co. Ltd.</h4>
 				  <h5><a href="https://leverate.com/" target="_blank">https://leverate.com/</a></h5>
-				  <p>Responsible for desktop research on cryptocurrency, forex broker marketing technology and foreign exchange regulatory trends. Assisting on data collection by using WIND and Blockchian.info.</p>
-				  <p> Completed competitors' research and manual translation. Reported independently to Israel headquarter's COO for WeChat platform layouts</p>
+				  <li>Responsible for desktop research on cryptocurrency, forex broker marketing technology and foreign exchange regulatory trends. Assisting on data collection by using WIND and Blockchian.info.</li>
+				  <li> Completed competitors' research and manual translation. Reported independently to Israel headquarter's COO for WeChat platform layouts</li>
 				  <h4 style="color: #3A4DAE;">MKT Intern, Yangshu Culture Co. Ltd.</h4>
 				  <h5><a href="http://www.neobear.com/en" target="_blank">http://www.neobear.com/en</a></h5>
-				  <p>Optimized the process of guide shopping and the AR amusement park in terms of offline activities , assist with offline branding of Neobear</p>
-				  <p>Participated in 2018 CBME on behalf of YOUNGZONE and presented AR products</p>
+				  <li>Optimized the process of guide shopping and the AR amusement park in terms of offline activities , assist with offline branding of Neobear</li>
+				  <li>Participated in 2018 CBME on behalf of YOUNGZONE and presented AR products</li>
 				  <h4 style="color: #3A4DAE;">Finance Intern, Ruder Finn</h4>
 				  <h5><a href="http://www.ruderfinn.com/" target="_blank">http://www.ruderfinn.com/</a></h5>
-				  <p>Assisted two accountants to implement financial affairs of Shanghai headquarter and Lingang Branch ( familiar with SAP ) , responsible for tracking as well as posting employee expense reimbursements and supplier payments reviews on time</p>
-				  <p>Processed VAT invoices, credit notes and deduction certification process for Shanghai Disney, Clarins amd Zeiss</p>
+				  <li>Assisted two accountants to implement financial affairs of Shanghai headquarter and Lingang Branch ( familiar with SAP ) , responsible for tracking as well as posting employee expense reimbursements and supplier payments reviews on time</li>
+				  <li>Processed VAT invoices, credit notes and deduction certification process for Shanghai Disney, Clarins amd Zeiss</li>
 				  <h4 style="color: #3A4DAE;">Translator Assistant, Graduate School of Shanghai Academy of Social Sciences (History Department)</h4>
-				  <p>Assisted translating research proposal of On Protection and Development of Industrial Heritages in Huxi Industrial Area, Shanghai </p>
-				  <p>Collated the proposal by using COCA and translated more than 4000 words</p>
+				  <li>Assisted translating research proposal of On Protection and Development of Industrial Heritages in Huxi Industrial Area, Shanghai </li>
+				  <li>Collated the proposal by using COCA and translated more than 4000 words</li>
 				  <h4 style="color: #3A4DAE;">Skills</h4>
                   <ul class="feature-icons">
                     <li class="fa-book">Test for English Majors-Band 4</li>
@@ -139,18 +139,19 @@
 						<!-- Five -->
             <section id="five">
               <div class="container">
-                <h3>Student Work</h3>
+                <h3>Leadership</h3>
                 <ul class="alt">
                   <li>
-                    <h4 style="color: #3A4DAE">Vice Minister of Associationâ€™s Union <span style="float:right; font-weight: 50; font-size: small;">December 2016 â€?July 2017</span></h4>
-                    <h5>Shanghai Jiaotong University Student Union</h5>
-                    <p> During tenure I have designed and held: SJTU Studentsâ€?Carnival 2017, Hundred-Clubs Campaign 2017, Dance Drama Performance Dancing Time, Annual Performance of 525 Dance Club, etc.</p>
+                    <h4 style="color: #3A4DAE">Vice President<span style="float:right; font-weight: 50; font-size: small;">Mar. 2017 â€? Mar. 2018</span></h4>
+                    <h5>SJTU Taiwanese Student Association(TSA)</h5>
+                    <p> Undertook large-scale affairs of EMBA Taiwan Alumni Association and HKMTO, including entrepreneur forums, and admission interviews with participants up to 100+ as well as offered legal enforcement consulting</p>
+					<p>Organized the 4th TSA Orientation with good utilization of resources from different agencies and departments</p>
                   </li>
                   <li>
-                    <h4 style="color: #3A4DAE">Volunteer of Shanghai International Marathon 2015 & 2016 <span style="float:right; font-weight: 50; font-size: small;">October 2015 & 2016 </span></h4>
+                    <h4 style="color: #3A4DAE">Vice Minister of SJTUSU Intercultural Communication Center<span style="float:right; font-weight: 50; font-size: small;">October 2015 & 2016 </span></h4>
                   </li>
                   <li>
-                    <h4 style="color: #3A4DAE"> Volunteer of 120th Anniversiry of Shanghai Jiaotong University <span style="float:right; font-weight: 50; font-size: small;">October 2016</span></h4>
+                    <h4 style="color: #3A4DAE"> Piano Accompanist of SJTU Chorus  <span style="float:right; font-weight: 50; font-size: small;">October 2016</span></h4>
                   </li>
                 </ul>
               </div>
@@ -159,7 +160,7 @@
             <!-- Six -->
             <section id="six">
               <div class="container">
-                <h3>Projects</h3>
+                <h3>Honors</h3>
                   <section>
                       <h4 style="color: #3A4DAE">BoxBox: PC/Android Multi-player 3D game</h4>
                     <h5>Course Project, Shanghai Jiaotong University</h5><h5>June 2016</h5>
