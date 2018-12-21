@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Ko-Yuan, Chang - CV</title>
+		<title>Chang, Ko-Yuan - CV</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -12,7 +12,7 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
-					<h1 id="logo"><a href="https://lucienchang306.github.io/">Ko-Yuan, Chang</a></h1>
+					<h1 id="logo"><a href="https://lucienchang306.github.io/">Ko-Yuan Chang</a></h1>
 					<p>Undergraduate @ SJTU</p>
 				</header>
 				<nav id="nav">
@@ -30,7 +30,7 @@
 						<li><a href="https://wzoe.github.io/" target="_blank" class="icon fa-home"><span class="label">Homepage</span></a></li>
 						<li><a href="https://wzoe.github.io/blog" target="_blank" class="icon fa-pencil"><span class="label">Blog</span></a></li>
 						<li><a href="https://github.com/WZoe" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
-						<li><a href="mailto:wzy_sjtu@foxmail.com" target="_blank" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="mailto:lucienchang0604@sjtu.edu.cn" target="_blank" class="icon fa-envelope"><span class="label">Email</span></a></li>
 						<li><a href="https://wzoe.github.io/resume/zh_cn.html" class="icon fa-language"><span class="label">Go to Chinese version</span></a></li>
 					</ul>
 				</footer>
@@ -77,15 +77,19 @@
 								<div class="container">
 									<h3>Internship Experience</h3>
                   <h4 style="color: #3A4DAE;">Strategy Consulting Intern, EY Parthenon</h4>
+				  <h5><a href="https://www.parthenon.ey.com/po/en/home" target="_blank">https://www.parthenon.ey.com/po/en/home</a></h5>
                   <p>Executed keyboard industry research, marketing analysis, sales channel analysis and competitive product analysis for German keyboard manufacturer CHERRY. Implemented users analysis in different regions as well as participated in the brand research to provide valuable optimization suggestions for project teams </p>
 				  <p>Completed interview outline designs, relevant industry reports and data collections</p>
                   <h4 style="color: #3A4DAE;">APEC Sales Intern, Leverate (Fintech) Co. Ltd.</h4>
+				  <h5><a href="https://leverate.com/" target="_blank">https://leverate.com/</a></h5>
 				  <p>Responsible for desktop research on cryptocurrency, forex broker marketing technology and foreign exchange regulatory trends. Assisting on data collection by using WIND and Blockchian.info.</p>
 				  <p> Completed competitors' research and manual translation. Reported independently to Israel headquarter's COO for WeChat platform layouts</p>
 				  <h4 style="color: #3A4DAE;">MKT Intern, Yangshu Culture Co. Ltd.</h4>
+				  <h5><a href="http://www.neobear.com/en" target="_blank">http://www.neobear.com/en</a></h5>
 				  <p>Optimized the process of guide shopping and the AR amusement park in terms of offline activities , assist with offline branding of Neobear</p>
 				  <p>Participated in 2018 CBME on behalf of YOUNGZONE and presented AR products</p>
 				  <h4 style="color: #3A4DAE;">Finance Intern, Ruder Finn</h4>
+				  <h5><a href="http://www.ruderfinn.com/" target="_blank">http://www.ruderfinn.com/</a></h5>
 				  <p>Assisted two accountants to implement financial affairs of Shanghai headquarter and Lingang Branch ( familiar with SAP ) , responsible for tracking as well as posting employee expense reimbursements and supplier payments reviews on time</p>
 				  <p>Processed VAT invoices, credit notes and deduction certification process for Shanghai Disney, Clarins amd Zeiss</p>
 				  <h4 style="color: #3A4DAE;">Translator Assistant, Graduate School of Shanghai Academy of Social Sciences (History Department)</h4>
@@ -106,7 +110,6 @@
 								<div class="container">
 									<h3>Research Experience</h3>
                   <h4 style="color: #3A4DAE">Shanghai Versa Incorporation <span style="float:right; font-weight: 50; font-size: small;">July 2018 - August 2019</span></h4>
-                  <h5><a href="https://www.versa-ai.com/" target="_blank">https://www.versa-ai.com/</a></h5>
                   <h5 style="color: #3A4DAE">Algorithm Engineer Intern, <i>Shanghai, China</i></h5><br />
                   <ul class="alt">
                     <li>
