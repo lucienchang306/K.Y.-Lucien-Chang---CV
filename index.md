@@ -78,22 +78,25 @@
 									<h3>Internship Experience</h3>
                   <h4 style="color: #3A4DAE;">Strategy Consulting Intern, EY Parthenon</h4>
 				  <h5><a href="https://www.parthenon.ey.com/" target="_blank">https://www.parthenon.ey.com/</a></h5>
-                  <li>Executed keyboard industry research, marketing analysis, sales channel analysis and competitive product analysis for German keyboard manufacturer CHERRY. Implemented users analysis in different regions as well as participated in the brand research to provide valuable optimization suggestions for project teams </li>
+                  <li>Executed keyboard industry research, marketing analysis, sales channel analysis and competitive product analysis for German keyboard manufacturer CHERRY</li>
+				  <li>Implemented users analysis in different regions as well as participated in the brand research to provide valuable optimization suggestions for project teams</li>
 				  <li>Completed interview outline designs, relevant industry reports and data collections</li>
                   <h4 style="color: #3A4DAE;">APEC Sales Intern, Leverate (Fintech) Co. Ltd.</h4>
 				  <h5><a href="https://leverate.com/" target="_blank">https://leverate.com/</a></h5>
-				  <li>Responsible for desktop research on cryptocurrency, forex broker marketing technology and foreign exchange regulatory trends. Assisting on data collection by using WIND and Blockchian.info.</li>
+				  <li>Responsible for desktop research on cryptocurrency, forex broker marketing technology and foreign exchange regulatory trend</li> 
+				  <li>Assisting on data collection by using WIND and Blockchian.info.</li>
 				  <li> Completed competitors' research and manual translation. Reported independently to Israel headquarter's COO for WeChat platform layouts</li>
 				  <h4 style="color: #3A4DAE;">MKT Intern, Yangshu Culture Co. Ltd.</h4>
 				  <h5><a href="http://www.neobear.com/en" target="_blank">http://www.neobear.com/en</a></h5>
-				  <li>Optimized the process of guide shopping and the AR amusement park in terms of offline activities , assist with offline branding of Neobear</li>
+				  <li>Optimized the process of guide shopping and the AR amusement park in terms of offline activities , assisted with offline branding of Neobear</li>
 				  <li>Participated in 2018 CBME on behalf of YOUNGZONE and presented AR products</li>
 				  <h4 style="color: #3A4DAE;">Finance Intern, Ruder Finn</h4>
 				  <h5><a href="http://www.ruderfinn.com/" target="_blank">http://www.ruderfinn.com/</a></h5>
-				  <li>Assisted two accountants to implement financial affairs of Shanghai headquarter and Lingang Branch ( familiar with SAP ) , responsible for tracking as well as posting employee expense reimbursements and supplier payments reviews on time</li>
+				  <li>Assisted two accountants to implement financial affairs of Shanghai headquarter and Lingang Branch (familiar with SAP)</li>
+				  <li>Responsible for tracking as well as posting employee expense reimbursements and supplier payments reviews on time</li>
 				  <li>Processed VAT invoices, credit notes and deduction certification process for Shanghai Disney, Clarins amd Zeiss</li>
 				  <h4 style="color: #3A4DAE;">Translator Assistant, Graduate School of Shanghai Academy of Social Sciences (History Department)</h4>
-				  <li>Assisted translating research proposal of On Protection and Development of Industrial Heritages in Huxi Industrial Area, Shanghai </li>
+				  <li>Assisted translating research proposal of <i>On Protection and Development of Industrial Heritages in Huxi Industrial Area, Shanghai</i></li>
 				  <li>Collated the proposal by using COCA and translated more than 4000 words</li>
 				  <h4 style="color: #3A4DAE;">Skills</h4>
                   <ul class="feature-icons">
